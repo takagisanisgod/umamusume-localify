@@ -1,11 +1,11 @@
 {
-    "enableConsole": true,
+    "enableConsole": false,
     "enableLogger": false,
     "dumpStaticEntries": false,
-    "maxFps": 0,
+    "maxFps": 165,
     "unlockSize": true,
     "uiScale": 1.0,
-    "replaceFont": true,
+    "replaceFont": false,
     "autoFullscreen": true,
     "dicts": [
         "localized_data/static.json",
